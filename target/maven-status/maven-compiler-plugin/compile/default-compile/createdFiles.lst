@@ -1,0 +1,6 @@
+tdw/book/entities/Book.class
+tdw/book/controller/bookController.class
+tdw/book/sessionbean/BookFacade.class
+tdw/book/entities/Book_.class
+tdw/book/sessionbean/AbstractFacade.class
+tdw/book/sessionbean/BookFacadeLocal.class
